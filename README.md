@@ -5,7 +5,7 @@
 
 ## 技术栈
 
-本系统将用到`Vue`框架采用`MVVM`渲染方式，该系统主要采用移动端M站布局的（rem、sass）、`Vue`、`Vuex`、`Vue+Sass`、`Koa2` 接口、微信Jssdk（扫码、拍照、微信支付）、Vue支付宝支付、Vue微信支付等多设备和平台接入，平台要具有较强的实用价值和可用性。
+本系统前端将采用`Vue`框架,后端采用`node.js`的`Koa2`框架以及`mangodb`数据库，该系统主要采用移动端M站布局的（rem、sass）、`Vue`、`Vuex`、`Vue+Sass`、`Koa2` 接口、微信Jssdk（扫码、拍照、微信支付）、Vue支付宝支付、Vue微信支付等多设备和平台接入，平台要具有较强的实用价值和可用性。
 
 ## 功能模块
 ![image](https://user-images.githubusercontent.com/68367439/164267871-44416ce3-337e-4bea-a54c-94099ca4e253.png)
